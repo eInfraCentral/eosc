@@ -30,5 +30,5 @@
   "name": "indicator",
   "aliasGroup": "resourceTypes",
   "payloadType": "xml",
-  "schemaUrl": "https://raw.githubusercontent.com/eInfraCentral/eic/develop/eic-registry-model/src/main/resources/schema1.xsd"
+  "schemaUrl": "https://raw.githubusercontent.com/eInfraCentral/eic/master/eic-registry-model/src/main/resources/schema1.xsd"
 }
